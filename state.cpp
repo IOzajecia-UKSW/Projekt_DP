@@ -7,6 +7,8 @@
 #include <algorithm>
 #include "stdafx.h"
 
+"Ver 1.1"
+
 class CTelevisor;
 
 class TTelevisor_State
