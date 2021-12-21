@@ -1,11 +1,14 @@
 //dp state
 
+"Ver 1.1"
+
 #include <cstdio>
 #include <cctype>
 #include <sstream>
 #include <list>
 #include <algorithm>
 #include "stdafx.h"
+
 
 class CTelevisor;
 
